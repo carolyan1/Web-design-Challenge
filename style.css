@@ -6,4 +6,17 @@
     float:right;
 }
 
+.nav-item.dropdown.show {
+    background-color: white;
+}
 
+.navbar{
+    background-color: lightgreen;
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right:0px;
+}
+
+.navlink{
+    float:right;
+}
