@@ -18,5 +18,11 @@
 }
 
 .navlink{
-    float:right;
+    float: right;
+}
+
+
+.img{
+    width: 2280px;
+    float: left;
 }
